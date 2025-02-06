@@ -16,3 +16,15 @@ Source Code
 3. 在 Wordpress 的左侧菜单中会出现 EZReviews 选项，点击进去
 4. 只填入自己的域名，点击 `Search the domain's Status` 按钮，查找该域名当前的状态
 5. 在目标页面中使用短代码：`[easy_reviews]` 。即可展示评论的效果。
+
+## 响应式布局
+
+### PC 端
+![EZReviews-Efforts1](https://img.hoocode.com/i/2025/02/06/sx13f5.webp)
+
+### IPAD 端
+![EZReviews-Efforts2](https://img.hoocode.com/i/2025/02/06/sx1jxa.webp)
+
+### MOBILE 端
+![EZReviews-Efforts3](https://img.hoocode.com/i/2025/02/06/sx0wcj.webp)
+
