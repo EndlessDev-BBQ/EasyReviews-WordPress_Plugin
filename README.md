@@ -2,7 +2,7 @@
 A FREE plugin to display the first page reviews of your domain in Trustpilot .
 
 ## 文件介绍
-Pugin
+Plugin
 - ezreviews.zip # Wordpress 插件主体包
 
 Source Code
