@@ -1,6 +1,8 @@
 # EasyReviews - WordPress Plugin
 A FREE plugin to display the first page reviews of your domain in Trustpilot .
 
+This project supports **Python** and **PHP** development.
+
 ## 文件介绍
 Plugin
 - ezreviews.zip # WordPress 插件主体包
