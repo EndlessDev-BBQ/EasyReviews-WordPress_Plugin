@@ -1,3 +1,2 @@
-*.php linguist-detectable=true
-*.py linguist-detectable=true
-*.txt linguist-documentation
+*.php linguist-language=php
+*.py linguist-language=python
