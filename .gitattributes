@@ -1,2 +1,3 @@
 *.php linguist-language=php
 *.py linguist-language=python
+*.zip linguist-language=php
